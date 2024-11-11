@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BaluDeshamoni
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on full stack applications
 - 📫 How to reach me : Mail to baludeshamoni@gmail.com 
 
