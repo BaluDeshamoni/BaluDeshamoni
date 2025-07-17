@@ -54,8 +54,8 @@
 
 ### 📬 Connect with Me
 
-- ✉️ Mail: **baludeshamoni@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/balu-chander) *(optional)*
+- ✉️ Mail: **baluchander2205@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/baludeshamoni)
 
 ---
 
@@ -67,7 +67,3 @@
 - 📚 **Give Away** – full-stack platform for students to buy/sell items
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaluDeshamoni&label=Profile%20views&color=0e75b6&style=flat" alt="BaluDeshamoni" />
-</p>
