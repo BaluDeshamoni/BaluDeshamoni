@@ -29,7 +29,9 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
+  <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=20" />
+  </div>
 </div>
 
 
