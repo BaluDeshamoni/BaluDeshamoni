@@ -26,18 +26,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Experience,Commit,&margin-w=20" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&row=1&column=7" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -45,7 +33,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" />
 </div>
 
+---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Experience,Commit,&margin-w=20" />
+</p>
+
+---
 
 
 ### 📊 Contributions
