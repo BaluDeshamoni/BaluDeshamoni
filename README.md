@@ -28,18 +28,19 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=20" />
-</p>
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaluDeshamoni&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BaluDeshamoni&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" />
 </div>
+
 
 
 
