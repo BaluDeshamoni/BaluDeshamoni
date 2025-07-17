@@ -26,34 +26,22 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaluDeshamoni&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<!--<p align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=BaluDeshamoni&show_icons=true&theme=radical" alt="Balu's GitHub Stats" /> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaluDeshamoni&theme=radical" alt="Balu's GitHub Streak" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" alt="Balu's Top Languages" /> -->
-<!-- </p> -->
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=20" />
 </p>
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaluDeshamoni&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaluDeshamoni&layout=compact&theme=radical" />
+</div>
+
+
 
 ### 📊 Contributions
 
