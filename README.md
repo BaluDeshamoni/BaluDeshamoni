@@ -41,12 +41,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BaluDeshamoni&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Experience,Commit,&margin-w=20" />
 </p>
 
----
-
-
-### 📊 Contributions
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaluDeshamoni&theme=rogue)
 
 ---
 
