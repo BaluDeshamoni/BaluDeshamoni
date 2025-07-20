@@ -2,7 +2,8 @@
 <h3 align="center">Full-Stack Developer | Backend Specialist | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Loves+to+build+scalable+solutions;Always+learning+and+exploring+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Loves+to+build+scalable+solutions;
+    Always+exploring+new+tech!" alt="Typing SVG" />
 </p>
 
 ---
