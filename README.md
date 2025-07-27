@@ -5,7 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Loves+to+build+scalable+solutions;Always+exploring+new+tech!" alt="Typing SVG" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=BaluDeshamoni&style=flat-square&color=blue)
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaluDeshamoni&style=flat-square&color=blue" alt="Visitor Count"/>
+</div>
+
+<br/>
+
 
 ---
 
