@@ -11,10 +11,12 @@
 
 ---
 
+<!-- TODO: Add more badges once achievements update 
 🏅 Badges & Achievements
 <p align="center"> <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge" alt="GSSoC Badge" /> <img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-4CAF50?style=for-the-badge" alt="Pull Shark Badge" /> <img src="https://img.shields.io/badge/Yolo-Merged%20Without%20Review-E91E63?style=for-the-badge" alt="Yolo Badge" /> </p> <p align="center"> <img src="https://github.com/BaluDeshamoni/BaluDeshamoni/blob/main/assets/gssoc-badge.png" alt="GSSoC Badge Image" width="200"/> </p>
 
 ---
+-->
 
 ### 🧑‍💻 About Me
 
