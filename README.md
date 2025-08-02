@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=BaluDeshamoni&style=flat-square&color=blue" alt="Visitor Count"/>
 </div>
 
+🏅 Badges & Achievements
+<p align="center"> <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge" alt="GSSoC Badge" /> <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=for-the-badge" alt="Arctic Code Vault" /> <img src="https://img.shields.io/badge/Action%20Hero-GitHub%20Actions-8A2BE2?style=for-the-badge" alt="GitHub Actions Badge" /> <img src="https://img.shields.io/badge/DevOps%20Guru-GitHub%20CI/CD-green?style=for-the-badge" alt="DevOps Guru Badge" /> <img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-4CAF50?style=for-the-badge" alt="Pull Shark Badge" /> <img src="https://img.shields.io/badge/Quickdraw-Closed%20Issues%20Fast-F44336?style=for-the-badge" alt="Quickdraw Badge" /> <img src="https://img.shields.io/badge/Yolo-Merged%20Without%20Review-E91E63?style=for-the-badge" alt="Yolo Badge" /> <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Co--authored%20PRs-00BCD4?style=for-the-badge" alt="Pair Extraordinaire Badge" /> <img src="https://img.shields.io/badge/Starstruck-Starred%20Repos-FFD700?style=for-the-badge" alt="Starstruck Badge" /> </p>
 
 ---
 
